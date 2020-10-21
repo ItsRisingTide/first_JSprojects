@@ -17,4 +17,4 @@ I don't know, maybe you could remember - when you were creating this effect: you
 Is there anything else needed just to translate cards?
 Like maybe i don't get smth important about it.
 I thought this effect would be easy, but that cards are telling me no.
-[here](https://jsfiddle.net/tfwkbme4/12/) i tried once more,  but it just bullies me again.
+[Here](https://jsfiddle.net/tfwkbme4/12/) i tried once more,  but it just bullies me again.
